@@ -7,8 +7,14 @@
 
 # 资料下载
 ### 课程教材
-
+https://share.weiyun.com/5TjYBXQ
 
 ### 课程源码
 
-https://github.com/TencentCloudBase/tcb-demo-namecard/init
+https://github.com/TencentCloudBase/tcb-demo-namecard/tree/master/init
+
+# 联系我们
+更多云开发使用技巧及Serverless行业动态，扫码关注我们~
+<p align="center">
+    <img src="https://puui.qpic.cn/vupload/0/20190603_1559545575934_lettsbvkvdn.jpeg/0" width="300px">
+</p>
