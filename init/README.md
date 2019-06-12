@@ -9,7 +9,7 @@
 ### 课程教材
 https://share.weiyun.com/5TjYBXQ
 
-### 课程源码
+### 课程初始源码
 
 https://github.com/TencentCloudBase/tcb-demo-namecard/tree/master/init
 
