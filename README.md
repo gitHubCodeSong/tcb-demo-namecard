@@ -14,7 +14,7 @@ https://github.com/TencentCloudBase/tcb-demo-namecard
 ![](https://puui.qpic.cn/vupload/0/20190612_1560307898903_eq7ntrdh2g.png/0)
 ![](https://puui.qpic.cn/vupload/0/20190612_1560308039887_7uzlyhhbm5t.png/0)
 
-### 课程源码
+### 课程初始源码
 
 https://github.com/TencentCloudBase/tcb-demo-namecard/tree/master/init
 
