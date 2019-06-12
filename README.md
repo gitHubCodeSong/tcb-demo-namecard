@@ -7,7 +7,7 @@
 
 # 资料下载
 ### 课程教材
-https://share.weiyun.com/5TjYBXQ
+https://github.com/TencentCloudBase/tcb-demo-namecard
 
 ### 课程源码
 
