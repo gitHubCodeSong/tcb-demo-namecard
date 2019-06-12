@@ -9,9 +9,9 @@
 ### 课程教材
 https://share.weiyun.com/5TjYBXQ
 
-### 课程初始源码
+### 课程完整源码
 
-https://github.com/TencentCloudBase/tcb-demo-namecard/tree/master/init
+https://github.com/TencentCloudBase/tcb-demo-namecard/tree/master/intact
 
 # 联系我们
 更多云开发使用技巧及Serverless行业动态，扫码关注我们~
